@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "I AM",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-05T12:21:17.386145Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby I Am",
+      "artist": "Dalton Dover",
+      "has_synced": true,
+      "path": "select/01_Baby_I_Am_Dalton_Dover.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Am Not a Man Unless I Have a Woman",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_I_Am_Not_a_Man_Unless_I_Have_a_Woman_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Am Not a Man Unless I Have a Woman",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_I_Am_Not_a_Man_Unless_I_Have_a_Woman_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Am a Man of Constant Sorrow",
+      "artist": "The Soggy Bottom Boys",
+      "has_synced": true,
+      "path": "select/04_I_Am_a_Man_of_Constant_Sorrow_The_Soggy_Bottom_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Am A Man Of Constant Sorrow (Radio Edit)",
+      "artist": "The Soggy Bottom Boys",
+      "has_synced": true,
+      "path": "select/05_I_Am_A_Man_Of_Constant_Sorrow_(Radio_Edit)_The_Soggy_Bottom_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Am A Simple Man",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/06_I_Am_A_Simple_Man_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Am A Simple Man (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/07_I_Am_A_Simple_Man_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Am That Man",
+      "artist": "Brooks & Dunn",
+      "has_synced": false,
+      "path": "select/08_I_Am_That_Man_Brooks_&_Dunn.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Am That Man",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/09_I_Am_That_Man_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It’s ‘Cause I Am",
+      "artist": "Callista Clark",
+      "has_synced": true,
+      "path": "select/10_It’s_‘Cause_I_Am_Callista_Clark.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just As I Am",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/11_Just_As_I_Am_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just As I Am (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/12_Just_As_I_Am_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lonely Like I Am",
+      "artist": "Logan Michael",
+      "has_synced": true,
+      "path": "select/13_Lonely_Like_I_Am_Logan_Michael.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lonely Like I Am",
+      "artist": "Michael Logan",
+      "has_synced": true,
+      "path": "select/14_Lonely_Like_I_Am_Michael_Logan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/15_Take_Me_As_I_Am_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take Me as I Am (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/16_Take_Me_as_I_Am_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What Kind Of Fool Do You Think I Am",
+      "artist": "Lee Roy Parnell",
+      "has_synced": false,
+      "path": "select/17_What_Kind_Of_Fool_Do_You_Think_I_Am_Lee_Roy_Parnell.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN feat. Taylor Swift",
+      "has_synced": true,
+      "path": "select/18_I_Don't_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN_feat._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/19_I_Don’t_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Knew You Were Trouble.",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/20_I_Knew_You_Were_Trouble._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/21_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/22_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/23_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/24_I_Ain't_Worried_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault) [feat. Chris Stapleton]",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/25_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_[feat._Chris_Staple_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/26_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I Can't Dance - Remastered 2007",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/27_I_Can't_Dance_-_Remastered_2007_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Don't Like It, I Love It (Mixed)",
+      "artist": "Flo Rida feat. Robin Thicke & Verdine White",
+      "has_synced": false,
+      "path": "select/28_I_Don't_Like_It,_I_Love_It_(Mixed)_Flo_Rida_feat._Robin_Thicke_&_Verdine_White.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker feat. Julie Bergan",
+      "has_synced": true,
+      "path": "select/29_I_Don't_Wanna_Go_Alan_Walker_feat._Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker;Julie Bergan",
+      "has_synced": true,
+      "path": "select/30_I_Don't_Wanna_Go_Alan_Walker;Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd feat. Daft Punk",
+      "has_synced": true,
+      "path": "select/31_I_Feel_It_Coming_The_Weeknd_feat._Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "I Hope (feat. Charlie Puth)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/32_I_Hope_(feat._Charlie_Puth)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "I Hope You’re Happy Now",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/33_I_Hope_You’re_Happy_Now_Carly_Pearce.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I AM",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_I_AM_IVE.txt"
+    }
+  ]
+}
